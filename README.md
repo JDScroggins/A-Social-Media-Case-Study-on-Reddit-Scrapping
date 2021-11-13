@@ -1,4 +1,4 @@
-# A-Social-Media-Case-Study-on-Reddit-Scrapping
+# A Social Media Case Study on Reddit Scrapping
 
 ### Premise
 
